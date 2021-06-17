@@ -1,0 +1,16 @@
+.header {
+    background: url(abrita1.gif);
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.main_part {
+    background: url(abrita7.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.abriita {
+    margin-left: 25%;
+}
